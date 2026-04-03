@@ -1,0 +1,7 @@
+{
+  "name": "Notebook Store",
+  "description": "A professional Digital Khata app for shopkeepers to manage customers, track dues, payments, and send reminders.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
